@@ -21,7 +21,7 @@ When you click button __"OFF"__ Lamp is off. The title button change on __"ON"__
 ***
 
 ___Example a code for click button:___
-```
+````swift
     @IBAction func click1(_ sender: UIButton) {
       
         let buttonText = button.currentTitle
@@ -39,7 +39,7 @@ ___Example a code for click button:___
             backColor.backgroundColor = #colorLiteral(red: 0.2460144162, green: 0.08992823213, blue: 0, alpha: 1)
         }   
     }
-```
+````
 ***
 All images using in this app was take with this [website](https://www.pngwing.com/ru/free-png-iwvpn).  
 _Type of licence:_ __Non-Commercial__
