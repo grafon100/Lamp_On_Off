@@ -1,6 +1,6 @@
 ![](https://s.0542.ua/section/newsIcon/upload/images/news/icon/000/052/548/vvv_5f6367b9845a5.png)
 
---
+***
 # "Lamp On/Off" 💡
 
 ***
@@ -13,12 +13,12 @@ I used:
 <li> Button </li>
 </ul>
 
-****
+***
 When you click button __"ON"__ Lamp is on. The title button change on __"OFF"__, a color button change  with orange on red and background change with brown on light yellow.  
 
 When you click button __"OFF"__ Lamp is off. The title button change on __"ON"__, a color button change  with red on orange and background change with  light yellow on brown.
 
---
+***
 
 ___Example a code for click button:___
 ```
@@ -40,6 +40,6 @@ ___Example a code for click button:___
         }   
     }
 ```
---
+***
 All images using in this app was take with this [website](https://www.pngwing.com/ru/free-png-iwvpn).  
 _Type of licence:_ __Non-Commercial__
