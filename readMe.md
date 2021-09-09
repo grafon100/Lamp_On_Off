@@ -41,5 +41,8 @@ ___Example a code for click button:___
     }
 ````
 ***
+Example app:
+![](https://github.com/grafon100/Lamp_On_Off/blob/241f244e1021df911303298da7dec08ad1cc3851/Example_App.gif)
+***
 All images using in this app was take with this [website](https://www.pngwing.com/ru/free-png-iwvpn).  
 _Type of licence:_ __Non-Commercial__
